@@ -1,0 +1,17 @@
+Estrategia 18 de Junio
+
+Requisitios tener instalador Python 3.11.7
+
+Cómo instalar y ejecutar
+
+1. Clona el repositorio:
+    git clone [https://github.com/Danielgiraldo2010/Estrategia18junio.git]
+
+2. Instalar Dependencias: 
+    pip install numpy
+    pip install networkx
+    pip install scipy
+    pip install matplotlib
+
+3. iniciar el programa 
+    python3 main.py
